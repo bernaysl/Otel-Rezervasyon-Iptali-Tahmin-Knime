@@ -1,1 +1,1 @@
-# Otel-Rezervasyon-ptali-Tahmin-Knime
+# Otel-Rezervasyon-Iptali-Tahmin-Knime
